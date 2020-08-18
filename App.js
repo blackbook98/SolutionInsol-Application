@@ -15,8 +15,6 @@ export default class Application extends Component {
   
    render() {
       return <Navigator/>
-          
-          
-    }
+   }
 }
 
